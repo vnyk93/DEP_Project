@@ -1,4 +1,4 @@
-# Learning management system using Django and Bootstrap
+# DEP Project: LMS using Django and Bootstrap
 
 Current features
 ----------------
