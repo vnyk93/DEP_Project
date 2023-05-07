@@ -36,8 +36,6 @@ Current features
 
 - `pip install -r requirements.txt`
 
-- Create `.env` file inside the root directory and setup your database (DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT)
-
 - `python manage.py makemigrations`
 
 - `python manage.py migrate`
